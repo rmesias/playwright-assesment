@@ -51,5 +51,18 @@ The test was configured to run into chrome browser. However it can be updated un
 Screenshots are enable only for failed test.
 
 
+### Screenshots
+Terminal test run summary:
+![image](https://github.com/user-attachments/assets/9c0a61df-7997-4a88-88db-0e200e911d34)
+
+HTML reporter failed test:
+![image](https://github.com/user-attachments/assets/86eef1c1-a903-43c2-9f59-6ee3cd522f71)
+
+Overall test:
+![image](https://github.com/user-attachments/assets/6cdb3851-0d49-4c45-a83b-1c3289c1223c)
+
+
+
+
 
 
